@@ -7,7 +7,10 @@ The TangoDJG plugin was started around 2012 and has been enhanced over the years
 
 Windows Media Player Legacy is still available with Windows 11.
 
-The WMP folder contains the plugin for Windows Media Player Legacy.  The MM folder contains the plugin for Media Monkey.
+The WMP folder contains the plugin for Windows Media Player Legacy.  It was originally compiled for x86 (Intel, AMD processors).  
+Compatibility with arm (Qualcomm processor) is unknown.
+
+The MM folder contains the plugin for Media Monkey.
 
 # TangoDJG License
 
