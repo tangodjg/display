@@ -12,6 +12,12 @@ Compatibility with arm (Qualcomm processor) is unknown.
 
 The MM folder contains the plugin for Media Monkey.
 
+# Tutorials
+
+[Video tutorial for Windows Media Player Legacy plugin.](https://youtu.be/o_of9_gIXaY)
+
+[Video tutorial for MediaMonkey plugin.](https://youtu.be/bRxVKH1Y2Ns)
+
 # TangoDJG License
 
 Addon and Plugin maybe used interchangeably throughout this document.
